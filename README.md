@@ -109,7 +109,7 @@ SEPTA-Intelligent-UAV-Observer/
 
 ---
 
-🧪 6. Research Use Cases
+## 🧪 6. Research Use Cases
 
 - Studying signal behavior in noisy environments  
 - Modeling environmental variability from aerial perspectives  
@@ -119,7 +119,7 @@ SEPTA-Intelligent-UAV-Observer/
 
 ---
 
-🏷️ 7. Tags (GitHub Topics)
+## 🏷️ 7. Tags
 `txt
 uav
 autonomous-systems
@@ -134,13 +134,13 @@ telemetry
 
 ---
 
-📄 8. License
+## 📄 8. License
 This project is released for research and educational purposes only.  
 No operational or field‑use applications are supported.
 
 ---
 
-📞 Contact
+## 📞 Contact
 For research collaboration:  
 systemheda@gmail.com
 `
